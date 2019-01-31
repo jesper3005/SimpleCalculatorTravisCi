@@ -153,7 +153,7 @@
                         <configuration>
                             <url>http://104.248.29.3:80/manager/text</url>  
                             <server>TomcatServer</server>
-                            <path>/calculator</path>
+                            <path>/calculatorTravis</path>
                             <username>admin</username>
                             <password>thuqueJibi1995    </password>
                             <update>true</update>
