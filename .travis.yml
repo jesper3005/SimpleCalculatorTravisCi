@@ -6,5 +6,7 @@ cache:
     - $HOME/.m2
 
 script:
-  XXX
+  - mvn test
+  - mvn verify
+  - mvn verify -Ptest
 
