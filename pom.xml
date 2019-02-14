@@ -155,7 +155,7 @@
                             <server>TomcatServer</server>
                             <path>/calculatorTravis</path>
                             <username>admin</username>
-                            <password>thuqueJibi1995    </password>
+                            <password>    </password>
                             <update>true</update>
                         </configuration>  
                     </plugin>
